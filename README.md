@@ -1,14 +1,9 @@
 # 👋 Hi, I'm Anam Farooq
-
 💻 Software Developer | Backend Engineer | API & Database Specialist  
 📍 Pakistan | 🌍 Open to Remote Opportunities
 
----
-
 ## 🔹 About Me
 I am a motivated software developer with experience in building scalable backend systems, RESTful APIs, and database-driven applications. I enjoy solving complex problems and continuously improving system performance and reliability.
-
----
 
 ## 🔹 Skills
 - **Languages:** C#, JavaScript, SQL
@@ -17,8 +12,6 @@ I am a motivated software developer with experience in building scalable backend
 - **Databases:** SQL Server, MySQL
 - **Tools:** Git, GitHub, Jira, Postman
 - **Concepts:** OOP, Design Patterns, REST APIs, Microservices (Basic)
-
----
 
 ## 🔹 Featured Projects
 ### 🔸 Portfolio Builder Application
@@ -33,13 +26,16 @@ I am a motivated software developer with experience in building scalable backend
 
 👉 *More projects available in repositories below.*
 
----
+## 📊 GitHub Analytics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anamfarooq&show_icons=true&hide_border=true)
 
-## 🔹 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anamfarooq&show_icons=true)
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anamfarooq&layout=compact&hide_border=true)
 
 ## 🔹 Connect With Me
+- 💼 **LinkedIn:** https://www.linkedin.com/in/anam-arain-07/
+- 📧 **Email:** anamarain07@gmail.com
+- 💻 **GitHub:** https://github.com/anamfarooq
+
+
 - 💼 LinkedIn: www.linkedin.com/in/anam-arain-07/
 - 📧 Email: anamarain07@gmail.com
